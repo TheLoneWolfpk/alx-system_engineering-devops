@@ -1,5 +1,4 @@
 #!/bin/bash
 0 string SCHOOL school data
-!:mime School
-To compile file , type in your terminal ; 
+!:mime School 
 file -C -m school.mgc
